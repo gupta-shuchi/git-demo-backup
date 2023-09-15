@@ -1,0 +1,5 @@
+#no .log file
+*.log
+
+#keep error.log file
+!error.log
